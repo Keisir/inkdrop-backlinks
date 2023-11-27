@@ -1,6 +1,6 @@
 {
     "name": "backlinks",
-    "version": "0.1.0",
+    "version": "1.0.1",
     "description": "Show backlinks in the editor",
     "main": "lib/plugin",
     "author": "Keisir",
