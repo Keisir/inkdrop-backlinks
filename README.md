@@ -1,3 +1,5 @@
+#### In [Inkdrop v5.8.0](https://forum.inkdrop.app/t/inkdrop-desktop-v5-8-0/) this feature was added to the core application. Therefore i have unpublished this plugin from the Inkdrop Plugin registry and archived the repository.
+
 # Backlinks
 
 Just a simple plugin to display backlinks in the editor drawer.
